@@ -1,0 +1,14 @@
+.header {
+  font-weight: 400;
+  font-size: 2rem;
+  padding-bottom: 20px;
+}
+
+.edit {
+  color: #ababaa;
+  padding: 0 7px 0 5px;
+}
+
+.delete {
+  color: #ababaa;
+}

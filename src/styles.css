@@ -1,4 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  height:100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  padding: 20px 40px;
+  background-color: #7abfdd;
+  background-image: url(assets/topography-bg.svg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+li {
+  color: #242324;
+}
+
+.header {
+  font-weight: 900;
+}
+
 .strike{
   text-decoration:line-through;
+  color: #ababaa;
 }
